@@ -1,1 +1,1 @@
-shell permission file
+0x02 shell redirections file
